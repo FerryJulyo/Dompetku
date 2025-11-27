@@ -15,9 +15,16 @@ dependencies:
   path: ^1.8.2
   fl_chart: ^0.60.0
   intl: ^0.18.0
-  animations: ^3.0.1
+  animations: ^2.1.1
   google_fonts: ^4.0.3
   cupertino_icons: ^1.0.5
+  csv: ^5.0.0
+  pdf: ^3.10.1
+  printing: ^5.10.0
+  flutter_local_notifications: ^13.0.0
+  timezone: ^0.9.0
+  flutter_native_timezone: ^2.0.0
+
 
 dev_dependencies:
   flutter_test:
